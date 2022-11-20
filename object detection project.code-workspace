@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../object detection project"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Sketch_Identification"
+	}
+}
